@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "headsortails", "headsortails\headsortails.pyproj", "{49DD0ECB-D171-4505-A3D3-B57ADE536AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49DD0ECB-D171-4505-A3D3-B57ADE536AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49DD0ECB-D171-4505-A3D3-B57ADE536AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D54CA12-875B-4E95-B62F-C251462443D2}
+	EndGlobalSection
+EndGlobal
